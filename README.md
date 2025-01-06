@@ -1,16 +1,23 @@
-# login_app
+# Flutter Sign-In and Sign-Out App
 
-A new Flutter project.
+A simple Flutter application demonstrating user authentication with sign-in and sign-out features.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- User authentication with email and password.
+  
+- Secure sign-in and sign-out functionality.
+  
+- Error handling for authentication failures.
+  
+- Simple and user-friendly UI.
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/1ae1980f-80ff-46a3-ac98-c4c9f2a4c132" alt="Sign_Up_Screen" width="250" />
+  <img src="https://github.com/user-attachments/assets/5e535da2-ab14-4212-a59f-390c655e978d" alt="Sign_In_Screen" width="250" />
+  <img src="https://github.com/user-attachments/assets/84b48ced-9c43-4ad0-a5f6-ff5808501656" alt="Logout_Screen" width="250" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
